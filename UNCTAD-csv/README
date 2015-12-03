@@ -1,0 +1,3 @@
+ANT BHS CYM IDN VGB have different structure
+check country names, mostly: Bahamas, British Virgin Islands, Slovakia
+but that is ok, because we will parse them with python as ugly as they are ^^
